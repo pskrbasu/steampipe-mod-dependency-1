@@ -1,3 +1,3 @@
 query "version" {
-  sql = "select 3.0 as reason, 3.0 as resource, 'ok' as status"
+  sql = "select 4.0 as reason, 4.0 as resource, 'alarm' as status"
 }
